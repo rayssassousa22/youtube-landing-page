@@ -16,8 +16,8 @@ header{
 }
 
 .icone{
-    width: 15%;
-    height: 15%;
+    width: 20%;
+    height: 20%;
 }
 
 button {
@@ -31,6 +31,7 @@ form input{
 
 #header-left img{
     margin-left: 10px;
+    display: flex;
 }
 
 #header-right img{
