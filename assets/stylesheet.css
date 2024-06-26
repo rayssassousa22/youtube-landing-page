@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    width: 10%;
+    border-bottom: 1px solid black;
+}
