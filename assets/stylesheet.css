@@ -34,9 +34,11 @@ form input{
 }
 
 main {
-    display: grid;
+    display: flex;
 }
 
 #view-section{
     margin-left: 5%;
+    display: inline-block;
+    object-fit: cover;
 }
