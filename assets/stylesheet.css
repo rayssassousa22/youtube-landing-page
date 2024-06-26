@@ -44,3 +44,12 @@ form input{
 #video-actions{
     display: flex;
 }
+
+#channel{
+    display: flex;
+}
+
+#channel img, #channel h2{
+    text-indent: 10px;
+    font-size: 1.5rem;
+}
