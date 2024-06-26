@@ -10,7 +10,7 @@ header{
     margin: 10px 15px 50px;
 }
 
-#header-center{
+#header-center, #header-left, #header-right{
     display: flex;
     align-items: center;
 }
@@ -31,7 +31,6 @@ form input{
 
 #header-left img{
     margin-left: 10px;
-    display: flex;
 }
 
 #header-right img{
