@@ -39,7 +39,7 @@ form input{
 #view-section{
     margin-left: 5%;
     display: inline-block;
-    width: 60%;
+    width: 70%;
 }
 
 #video{
@@ -101,4 +101,5 @@ p{
 
 #scroll-videos{
     display: grid;
+    width: 20%;
 }
