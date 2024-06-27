@@ -73,14 +73,14 @@ form input{
     margin-right: 1%;
 }
 
-#gostei, #nao-gostei{
+#gostei, #nao-gostei, #compartilhar, #download{
     display: flex;
     align-items: center;
     margin: 1%;
     padding: 3px;
 }
 
-#gostei img, #gostei h3, #nao-gostei img, #nao-gostei h3 {
+#gostei img, #gostei h3, #nao-gostei img, #nao-gostei h3, #compartilhar img, #compartilhar h3 {
     margin-right: 10px;
     font-size: 1.3em;
 }
