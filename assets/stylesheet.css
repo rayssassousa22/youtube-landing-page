@@ -70,4 +70,11 @@ form input{
     height: 70%;
     width: 15%;
     font-size: 1rem;
+    margin-right: 10%;
+}
+
+#like{
+    display: flex;
+    align-items: center;
+    width: 20%;
 }
