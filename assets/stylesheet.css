@@ -98,3 +98,7 @@ p{
     width: 60%;
     margin-bottom: 3em;
 }
+
+#scroll-videos{
+    display: grid;
+}
