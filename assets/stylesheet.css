@@ -20,6 +20,11 @@ main {
     display: flex;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 p{
     color: rgb(78, 77, 77)
 }
@@ -69,7 +74,7 @@ form input{
     margin-bottom: 5px;
 }
 
-#subscribe{
+#subscribe, #subscribe a{
     background-color: red;
     color: white;
     font-weight: bold;
