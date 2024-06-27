@@ -60,3 +60,10 @@ form input{
     text-indent: 1rem;
     margin-bottom: 5px;
 }
+
+#subscribe{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: 0;
+}
