@@ -46,3 +46,8 @@ form input{
     height: 10%;
     align-items: center;
 }
+
+#channel h2, #channel p{
+    margin: 0;
+    text-indent: 1.5rem;
+}
