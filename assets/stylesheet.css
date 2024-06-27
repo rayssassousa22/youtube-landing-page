@@ -66,4 +66,7 @@ form input{
     color: white;
     font-weight: bold;
     border: 0;
+    padding: 10px;
+    height: 70%;
+    width: 15%;
 }
