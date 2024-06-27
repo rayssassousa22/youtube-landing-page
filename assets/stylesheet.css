@@ -45,11 +45,7 @@ form input{
     display: flex;
 }
 
-#channel{
-    display: flex;
-}
-
-#channel img, #channel h2{
-    text-indent: 10px;
+h2{
+    text-indent: 1.5rem;
     font-size: 1.5rem;
 }
