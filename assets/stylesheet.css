@@ -52,3 +52,7 @@ form input{
     text-indent: 1rem;
     margin-bottom: 5px;
 }
+
+#channel p{
+    color: grey;
+}
