@@ -43,9 +43,6 @@ form input{
 
 #video-actions{
     display: flex;
-}
-
-h2{
-    text-indent: 1.5rem;
-    font-size: 1.5rem;
+    height: 10%;
+    align-items: center;
 }
