@@ -49,5 +49,6 @@ form input{
 
 #channel h2, #channel p{
     margin: 0;
-    text-indent: 1.5rem;
+    text-indent: 1rem;
+    margin-bottom: 5px;
 }
