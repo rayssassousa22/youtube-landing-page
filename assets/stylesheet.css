@@ -101,5 +101,19 @@ p{
 
 #scroll-videos{
     display: grid;
-    width: 20%;
+    width: 30%;
+}
+
+.thumbnails{
+    align-items: center;
+}
+
+.details{
+    display: inline-block;
+    align-items: center;
+}
+
+.details p, h5, h6{
+    margin: 0;
+    margin-bottom: 5px;
 }
