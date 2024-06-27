@@ -102,14 +102,20 @@ p{
 #scroll-videos{
     display: grid;
     width: 30%;
+    margin-left: 1.5%;
 }
 
 .details{
     display: inline-block;
-    align-content: flex-start;
+    margin-left: 1%;
 }
 
 .details p, h5, h6{
     margin: 0;
     margin-bottom: 5px;
+    font-size: 0.8rem;
+}
+
+h5{
+    font-size: 1rem;
 }
