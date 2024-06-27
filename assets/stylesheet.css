@@ -2,6 +2,11 @@ body{
     margin: 0;
 }
 
+@font-face {
+    font-family: roboto;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
 header{
     display: flex;
     height: 10%;
