@@ -52,7 +52,7 @@ form input{
 }
 
 #channel{
-    margin-right: 15%;
+    margin-right: 10%;
 }
 
 #channel h2, #channel p{
@@ -67,12 +67,19 @@ form input{
     font-weight: bold;
     border: 0;
     padding: 10px;
-    height: 70%;
-    width: 15%;
+    height: 65%;
+    width: 20%;
     font-size: 1rem;
-    margin-right: 10%;
+    margin-right: 5%;
 }
- #like-button {
-    width: 3%;
+
+#gostei{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 3px;
+}
+
+#gostei img {
     margin-right: 10px;
- }
+}
