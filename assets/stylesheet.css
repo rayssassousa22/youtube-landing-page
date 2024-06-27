@@ -104,13 +104,9 @@ p{
     width: 30%;
 }
 
-.thumbnails{
-    align-items: center;
-}
-
 .details{
     display: inline-block;
-    align-items: center;
+    justify-content: center;
 }
 
 .details p, h5, h6{
