@@ -106,7 +106,7 @@ p{
 
 .details{
     display: inline-block;
-    justify-content: center;
+    align-content: flex-start;
 }
 
 .details p, h5, h6{
